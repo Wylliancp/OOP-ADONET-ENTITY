@@ -1,0 +1,7 @@
+C:\Users\wyllian\source\repos\LojaConsole\ConexaoAdoNet\bin\Debug\ConexaoAdoNet.exe.config
+C:\Users\wyllian\source\repos\LojaConsole\ConexaoAdoNet\bin\Debug\ConexaoAdoNet.exe
+C:\Users\wyllian\source\repos\LojaConsole\ConexaoAdoNet\bin\Debug\ConexaoAdoNet.pdb
+C:\Users\wyllian\source\repos\LojaConsole\ConexaoAdoNet\obj\Debug\ConexaoAdoNet.csprojResolveAssemblyReference.cache
+C:\Users\wyllian\source\repos\LojaConsole\ConexaoAdoNet\obj\Debug\ConexaoAdoNet.csproj.CoreCompileInputs.cache
+C:\Users\wyllian\source\repos\LojaConsole\ConexaoAdoNet\obj\Debug\ConexaoAdoNet.exe
+C:\Users\wyllian\source\repos\LojaConsole\ConexaoAdoNet\obj\Debug\ConexaoAdoNet.pdb
